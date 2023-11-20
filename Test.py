@@ -1,3 +1,13 @@
+#retake-quiz-btn {
+    background-color: #4CAF50; /* Choisissez une couleur distincte */
+    color: #fff;
+    margin-top: 20px; /* Espace supplémentaire au-dessus du bouton */
+}
+
+#retake-quiz-btn:hover {
+    background-color: darken(#4CAF50, 10%); /* Assombrir légèrement au survol */
+}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
